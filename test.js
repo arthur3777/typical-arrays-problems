@@ -1,4 +1,4 @@
-const assert = require('assert');
+ghconst assert = require('assert');
 
 const {
   min,
